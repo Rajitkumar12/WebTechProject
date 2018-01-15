@@ -1,0 +1,42 @@
+        @charset "UTF-8";
+        /* CSS Document */
+        
+        body {
+            background-image: url(../img/bg5.jpg);
+            background-position: top center;
+            background-size: cover;
+        }
+        .logo {
+            margin: 3%;
+        }
+        .banner {
+            margin: 4%;
+        }
+        .jborder {
+            background-image: url(../img/border1.jpg);
+            border: 20px;
+            border-color: black;
+        }
+        .jumbotron h1 {
+            color: white;
+        }
+        .jumbotron p {
+            color: white;
+        }
+        footer {
+            background-color: black;
+            color: white;
+            padding: 20px;
+        }
+        .img1 {
+            margin-bottom: 80px;
+        }
+        .text1 {
+            color: white;
+        }
+        p {
+            color: white;
+        }
+        tr {
+            color: white;
+        }
